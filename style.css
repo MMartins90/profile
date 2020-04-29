@@ -16,6 +16,10 @@
   }
 }
 
+body {
+  background-image: url("images/background-image.png");
+}
+
 h1 {
   color: #575F7D;
   font-family: 'Poppins', sans-serif;
@@ -41,6 +45,7 @@ a {
 p {
   font-family: 'Open Sans', 'Sans-Serif';
   margin-bottom: 30px;
+  color: white;
 }
 
 .container {
@@ -49,7 +54,7 @@ p {
 }
 
 .card {
-  background-color: white;
+  background-image: white;
   padding: 40px;
   box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
   border-radius: 4px;
